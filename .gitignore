@@ -1,0 +1,10 @@
+# Arquivos temporários
+.DS_Store
+
+# Arquivos de log
+logs/
+
+# Diretório de dependências do Node.js
+# Ignorar pastas node_modules
+front_tarefas/node_modules/
+laravel_tarefas/node_modules/
